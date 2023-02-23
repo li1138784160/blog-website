@@ -1,4 +1,4 @@
-import About from "../components/About";
+import About from "./components/About";
 
 export async function getStaticProps() {
     // 调用外部 API 获取博文列表
